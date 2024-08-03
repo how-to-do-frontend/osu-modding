@@ -16,7 +16,7 @@ Next up you want to download [dnSpy](https://github.com/dnSpy/dnSpy/releases/dow
 
 Once you have downloaded it, open it up and drag the `osu!.exe` file into the Assembly Explorer.
 
-![first-use](./images/dnSpy-first-use.gif)
+https://github.com/user-attachments/assets/5737ebb1-a4da-4d0d-a88a-211e0dc3e639
 
 ## Using dnSpy
 
