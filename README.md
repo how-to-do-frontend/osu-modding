@@ -106,7 +106,7 @@ You now have the option to right-click on a resource and "Save", or even edit th
 
 ### XNB
 In builds before ~b20130606, osu! assets will be stored as XNB files, which is a file format made for the XNA framework (what osu! uses).
-This means that you'll need to convert them from XNB to PNG files, which Levi has a tool for [here](https://github.com/lekuruu/xnb)
+This means that you'll need to convert them from XNB to PNG files, which I have a tool for [here](https://github.com/lekuruu/xnb).
 
 ![resources-3](./images/dnSpy-resources-3.png)
 
