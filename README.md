@@ -105,6 +105,7 @@ Here is an example for `osu!ui.dll`
 You now have the option to right-click on a resource and "Save", or even edit the resource entirely by clicking "Edit Resource..."
 
 ### XNB
+
 In builds before ~b20130606, osu! assets will be stored as XNB files, which is a file format made for the XNA framework (what osu! uses).
 This means that you'll need to convert them from XNB to PNG files, which I have a tool for [here](https://github.com/lekuruu/xnb).
 
